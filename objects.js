@@ -1,6 +1,6 @@
 var playlist = {
-  Anthony Green: "Young Legs",
-  Basement: "Aquasun"
+  "Anthony Green": "Young Legs",
+  "Basement": "Aquasun"
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
